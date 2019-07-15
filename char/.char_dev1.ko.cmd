@@ -1,0 +1,1 @@
+cmd_/home/buglab/lab/char/char_dev1.ko := arm-none-linux-gnueabi-ld -EL -r  -T /home/buglab/src/kernel/tc4_Kernel_3.0/scripts/module-common.lds --build-id  -o /home/buglab/lab/char/char_dev1.ko /home/buglab/lab/char/char_dev1.o /home/buglab/lab/char/char_dev1.mod.o
